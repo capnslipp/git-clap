@@ -1,6 +1,6 @@
 # git-clap
 
-Local-Machine-Only Changes As Easy As “clap on, clap off”
+Local-Machine-Only Changes as easy as “git clap on; git clap off”
 
 ---
 
